@@ -1,0 +1,5 @@
+I used the following resources to complete this:
+
+Base HTML document: https://www.sitepoint.com/a-basic-html5-template/
+HTML and JavaScript reference: https://www.w3schools.com
+Random Research: https://stackoverflow.com/

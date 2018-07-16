@@ -1,0 +1,58 @@
+/* Main CSS */
+
+html, div, body, span, h1, h2 {
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+h1 {
+  font-size: 150%;
+  font-weight: bolder;
+}
+.list {
+  padding: .25rem;
+  margin: .25rem;
+  line-height: 1.5rem;
+}
+.person {
+  font: bold, 1.25rem, arial, sans-serif;
+}
+
+/* detail view items here */
+.detail {
+  padding: .25rem;
+  margin: .25rem;
+  line-height: 1.5rem;
+}
+.personLabel {
+  font: bold, 1.25rem, arial, sans-serif;
+  color: gray;
+}
+
+.personAttribute {
+  font: bold, 1.25rem, arial, sans-serif;
+  color: black;
+}
+
+
+div.button {
+  display:inline-block;
+  color: blue;
+  border:1px solid #CCCCCC;
+  background:#DDDDDD;
+  box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+  cursor:pointer;
+  vertical-align:middle;
+  max-width: 100px;
+  padding: 5px;
+  text-align: center;
+  text-decoration: underline;
+}
+div.button:active {
+  color:blue;
+  box-shadow: 0 0 5px -1px rgba(0,0,0,0.6);
+}
